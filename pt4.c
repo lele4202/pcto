@@ -5,7 +5,7 @@
     int a;
 
     printf("inserisci la tua eta: \n");
-    scanf (" &d, &a");
+    scanf ("%d", &a);
 
     if (a < 18)
     {
